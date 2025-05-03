@@ -22,7 +22,7 @@ def api():
             if game == 1:
                 
                 api = API()
-                api.login('ODY4NzM4MzI0MzM0NDk4OTcyNjoxNjcxOTA5MTU1NzQyOjc2MDc0NWU0ZjViYjcxNTMwMzYxMzMxNzM3NTA5ZTdh')  
+                api.login('TOKEN')  
                 
             
                 if(acc == 1):  
